@@ -1,0 +1,12 @@
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\ClickingGame.exe.config
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\ClickingGame.exe
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\ClickingGame.pdb
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.csprojResolveAssemblyReference.cache
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.Properties.Resources.resources
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.csproj.GenerateResource.Cache
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.exe
+c:\users\jns\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.pdb
+C:\Users\JnS\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\obj\Debug\ClickingGame.Form1.resources
+C:\Users\JnS\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\MBProgressBar.dll
+C:\Users\JnS\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\MBProgressBar.xml
+C:\Users\JnS\documents\visual studio 2015\Projects\ClickingGameSol\ClickingGame\bin\Debug\MBProgressBar.pdb

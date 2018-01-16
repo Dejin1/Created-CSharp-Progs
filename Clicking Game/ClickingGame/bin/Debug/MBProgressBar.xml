@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MBProgressBar
+</name>
+</assembly>
+<members>
+<member name="T:MBGlassStyleProgressBar.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:MBGlassStyleProgressBar.MBProgressBar">
+ <summary>
+ MBGlassStyleProgressBar Class © 2011 By Manoj Kishor Bhoir
+ </summary>
+ <remarks>Version 1.0.4348.33776</remarks>
+</member>
+<member name="F:MBGlassStyleProgressBar.MBProgressBar.Components">
+ <summary>
+ Required by the Form Designer Variable
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.#ctor">
+ <summary>
+ Create a Control and Initialize it.
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.Dispose(System.Boolean)">
+ <summary>
+ MBExplorer Overrides Dispose to CleanUp component list
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.InitializeComponent">
+ <summary>
+ Initialize the MBProgressBar Components
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.Value">
+ <summary>
+ Get or Set the Value displayed on the MBProgressBar
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.Color">
+ <summary>
+ Get and Set the Display Color of the ProgressBar
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.HighlightColor">
+ <summary>
+ Get or Set the Highlight Color of the MBProgressBar
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.BackgroundColor">
+ <summary>
+ Get or Set the Background Color of the MBProgressBar
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.Animate">
+ <summary>
+ Get or Set the Animation of the MBProgressBar
+ </summary>
+</member>
+<member name="P:MBGlassStyleProgressBar.MBProgressBar.GlowColor">
+ <summary>
+ Get or Set the Glow Color of the MBProgressBar
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawBackground(System.Drawing.Graphics)">
+ <summary>
+ Draw Background for the MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawBackgroundShadows(System.Drawing.Graphics)">
+ <summary>
+ Draw Background Shadows for MBProgrssBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawBar(System.Drawing.Graphics)">
+ <summary>
+ Draw MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawBarShadows(System.Drawing.Graphics)">
+ <summary>
+ Draw Shadows for MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawHighlight(System.Drawing.Graphics)">
+ <summary>
+ Draw Highlight for MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawInnerStroke(System.Drawing.Graphics)">
+ <summary>
+ Draw Inner Sroke for MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawGlow(System.Drawing.Graphics)">
+ <summary>
+ Draw Glow for MBProgressBar
+ </summary>
+ <param name="g">Graphics Object</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.DrawOuterStroke(System.Drawing.Graphics)">
+ <summary>
+ Draw Outer Stroke on the Control
+ </summary>
+ <param name="g">Object As Graphics</param>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.RoundRect(System.Drawing.RectangleF,System.Single,System.Single,System.Single,System.Single)">
+ <summary>
+ Return Rounded Rectangel
+ </summary>
+ <returns>Rounded Rectangle</returns>
+</member>
+<member name="T:MBGlassStyleProgressBar.MBProgressBar.ValueChangedHandler">
+ <summary>
+ When the Value Property Changed
+ </summary>
+</member>
+<member name="E:MBGlassStyleProgressBar.MBProgressBar.ValueChanged">
+ <summary>
+ When the Value Property Changed
+ </summary>
+</member>
+<member name="T:MBGlassStyleProgressBar.MBProgressBar.MinChangedHandler">
+ <summary>
+ When the MinValue Property Changed
+ </summary>
+</member>
+<member name="E:MBGlassStyleProgressBar.MBProgressBar.MinChanged">
+ <summary>
+ When the MinValue Property Changed
+ </summary>
+</member>
+<member name="T:MBGlassStyleProgressBar.MBProgressBar.MaxChangedHandler">
+ <summary>
+ When MaxValue Property Changed
+ </summary>
+</member>
+<member name="E:MBGlassStyleProgressBar.MBProgressBar.MaxChanged">
+ <summary>
+ When MaxValue Property Changed
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.GlowAnimation_Paint(System.Object,System.Windows.Forms.PaintEventArgs)">
+ <summary>
+ Handles GlowAnimation of MBProgressBar Pain Event
+ </summary>
+</member>
+<member name="M:MBGlassStyleProgressBar.MBProgressBar.GlowAnimation_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Timer Tick Event of GlowAnimation Timer Which Handls GlowAnimation of MBProgressBar
+ </summary>
+</member>
+</members>
+</doc>

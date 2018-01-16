@@ -1,0 +1,10 @@
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\bin\Debug\Note Mover.exe.config
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note_Mover.Form1.resources
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note_Mover.Properties.Resources.resources
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note Mover.csproj.GenerateResource.Cache
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\bin\Debug\Note Mover.exe
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\bin\Debug\Note Mover.pdb
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note Mover.exe
+c:\users\jns\documents\visual studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note Mover.pdb
+C:\Users\JnS\Documents\Visual Studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note_Mover.Form2.resources
+C:\Users\JnS\Documents\Visual Studio 2015\Projects\Note Mover\Note Mover\obj\Debug\Note_Mover.Form3.resources
